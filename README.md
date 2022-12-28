@@ -2,7 +2,7 @@
 Real Time face detection with Harcascade OpenCV and programming c++
 
 ### Screenshot
-<img href="Resources\Picture\Screenshot\ss1.png">
+![alt text](https://github.com/dansecret/Realtime-FaceDetection/Resources/Picture/ss1.png?raw=true)
 
 ### Required
 - [x] Cpp
