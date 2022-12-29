@@ -13,5 +13,6 @@ Real Time face detection with Harcascade OpenCV and programming c++
 
 ### install
 - OpenCV install
+- Visual Studio
 
 ### Run
