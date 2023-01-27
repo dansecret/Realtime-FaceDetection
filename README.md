@@ -16,3 +16,6 @@ Real Time face detection with Harcascade OpenCV and programming c++
 - Visual Studio
 
 ### Run
+- Open Folder in Visual Studio code 
+- inactive project has no use
+- click run
