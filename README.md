@@ -1,5 +1,5 @@
 # Realtime-FaceDetection
-Real Time face detection with Harcascade OpenCV and programming c++
+Real Time face detection with method Harcascade OpenCV and programming c++
 
 ### Screenshot
 ![alt text](https://github.com/dansecret/Realtime-FaceDetection/blob/master/Resources/Picture/ss1.png)
